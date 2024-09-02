@@ -17,6 +17,14 @@ The SUMO Robot is designed for competitive SUMO robot challenges. It features:
 - **Line Following:** The robot can follow lines on the ground using the line sensors.
 - **Competitive Performance:** Designed to compete in SUMO robot tournaments.
 
+## Strategy
+
+The SUMO Robot uses two distinct strategies:
+
+1. **Circular Attack:** When engaging with an opponent, the robot uses a circular movement pattern to attack. This strategy helps in maintaining a constant approach angle and can be effective in disorienting opponents.
+
+2. **Random Search:** For locating opponents, the robot employs a random search pattern. This strategy allows the robot to cover a larger area and increases the likelihood of encountering opponents during the match.
+
 ## Getting Started
 
 To get started with the SUMO Robot, follow these instructions:
@@ -31,4 +39,4 @@ To get started with the SUMO Robot, follow these instructions:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mahmoud3wwd/Sumo-Robot-Arduino-Code.git
+   git clone (https://github.com/Mahmoud3wwd/Sumo-Robot-Arduino-Code)
